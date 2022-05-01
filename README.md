@@ -1,16 +1,1 @@
-# by_carbonmail
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](https://media2.giphy.com/media/betBWpg92ksjnHrl4M/giphy.gif?cid=790b76113001aa52f5337f96dd57a86ddb708e6cd14a28c4&rid=giphy.gif&ct=g)
